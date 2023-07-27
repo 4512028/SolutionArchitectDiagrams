@@ -1,6 +1,89 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T06:03:07.270Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.5" etag="slE7aJvj-TL0m_snGrx-" type="github">
-  <diagram name="Page-1" id="RF5cgHOWn9OtOZcBsRnu">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-07-27T08:40:01.518Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="SUKKoyJUZBtZnF7ioJJo" version="21.6.5" type="github" pages="2">
+  <diagram name="AFC Application Architect " id="RF5cgHOWn9OtOZcBsRnu">
+    <mxGraphModel dx="1236" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="litSmm1hHM4g8dLuIEM6-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="50" y="120" width="750" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="litSmm1hHM4g8dLuIEM6-2" value="&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="630" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="litSmm1hHM4g8dLuIEM6-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span id=&quot;docs-internal-guid-e763abd6-7fff-b78e-0b73-6203bda56c7e&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-e763abd6-7fff-b78e-0b73-6203bda56c7e&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-e763abd6-7fff-b78e-0b73-6203bda56c7e&quot;&gt;&lt;/span&gt;&lt;b&gt;AFC Architecture&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="125" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="litSmm1hHM4g8dLuIEM6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="260" as="sourcePoint" />
+            <mxPoint x="180" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="litSmm1hHM4g8dLuIEM6-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="litSmm1hHM4g8dLuIEM6-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="260" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="410" y="445" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="litSmm1hHM4g8dLuIEM6-7" value="EPAS User Interface" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="120" y="445" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="litSmm1hHM4g8dLuIEM6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="litSmm1hHM4g8dLuIEM6-8" target="litSmm1hHM4g8dLuIEM6-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="690" />
+              <mxPoint x="180" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="litSmm1hHM4g8dLuIEM6-8" value="v" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="120" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="litSmm1hHM4g8dLuIEM6-9" value="  Access Controls and Data Security" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="550" y="380" width="120" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="litSmm1hHM4g8dLuIEM6-10" value="EPAS Core Functionalities and Logic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="120" y="530" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="litSmm1hHM4g8dLuIEM6-11" value="v" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="120" y="610" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="litSmm1hHM4g8dLuIEM6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.565;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="litSmm1hHM4g8dLuIEM6-12" target="litSmm1hHM4g8dLuIEM6-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="litSmm1hHM4g8dLuIEM6-12" value="v" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="280" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="litSmm1hHM4g8dLuIEM6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.963;entryY=1.131;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="504.43" y="782.17" as="sourcePoint" />
+            <mxPoint x="500.00000000000017" y="690.0299999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="504.43" y="690.17" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="litSmm1hHM4g8dLuIEM6-13" value="v" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="440" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="litSmm1hHM4g8dLuIEM6-25" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/users.svg;" vertex="1" parent="1">
+          <mxGeometry x="392" y="200" width="33" height="50" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="External system name" c4Type="Software System" c4Description="Description of external software system." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="litSmm1hHM4g8dLuIEM6-26">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="90" y="140" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="litSmm1hHM4g8dLuIEM6-27" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.service;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="160" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="y8uj92sChr0aA3x2Cbwv" name="Page-2">
+    <mxGraphModel dx="1174" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
