@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T11:45:33.276Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="oOaVo8H7WHzzoq2ffNfk" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T11:48:01.827Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="YAjZeSwGhghcCvIQaq7g" version="22.0.8" type="github">
   <diagram name="Page-1" id="3SnFC3LOCb9zNHQhsVjM">
-    <mxGraphModel dx="4685" dy="2745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3193" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -648,9 +648,6 @@
         <mxCell id="jGmn0icsXWVHakygA171-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.435;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="J1bqy3TiTtF0nXnbvTN2-1" source="jGmn0icsXWVHakygA171-28" target="jGmn0icsXWVHakygA171-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jGmn0icsXWVHakygA171-29" value="Trusted CA certificates" style="points=[[0.015,0.015,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.985,0.015,0],[1,0.22,0],[1,0.44,0],[1,0.67,0],[0.985,0.89,0],[0,0.22,0],[0,0.44,0],[0,0.67,0],[0.015,0.89,0],[0.25,0.91,0],[0.5,0.91,0],[0.785,0.955,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.x509_certificate;fillColor=#005073;strokeColor=none;" vertex="1" parent="J1bqy3TiTtF0nXnbvTN2-1">
-          <mxGeometry x="-152.39999999999998" y="720" width="94.81" height="90.07" as="geometry" />
-        </mxCell>
         <mxCell id="jGmn0icsXWVHakygA171-48" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="J1bqy3TiTtF0nXnbvTN2-1">
           <mxGeometry x="-30" y="206.22" width="80" height="60" as="geometry" />
         </mxCell>
@@ -675,15 +672,6 @@
         <mxCell id="jGmn0icsXWVHakygA171-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J1bqy3TiTtF0nXnbvTN2-8" target="jGmn0icsXWVHakygA171-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jGmn0icsXWVHakygA171-27" value="TrustStorer" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="-670" y="750" width="90" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="jGmn0icsXWVHakygA171-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jGmn0icsXWVHakygA171-6" target="jGmn0icsXWVHakygA171-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jGmn0icsXWVHakygA171-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jGmn0icsXWVHakygA171-27" target="jGmn0icsXWVHakygA171-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="jGmn0icsXWVHakygA171-54" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Server-side Authentication: &lt;br&gt;The adapter authenticates the web server &lt;br&gt;by checking its TrustStore for a trusted CA certificate&quot;&lt;br&gt;&amp;nbsp;that validates the web server&#39;s certificate.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Dual Authentication:&lt;br&gt;&amp;nbsp;Both the adapter and web server authenticate&lt;br&gt;&amp;nbsp;each other by exchanging certificates.&lt;br&gt;&amp;nbsp;The web server verifies the adapter&#39;s&lt;/div&gt;&lt;div&gt;&amp;nbsp;certificate,and the adapter verifies t&lt;/div&gt;&lt;div&gt;he web server&#39;scertificate. This&amp;nbsp;&lt;/div&gt;&lt;div&gt;two-way authentication&lt;br&gt;&amp;nbsp;enhances security.&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;direction=west;" vertex="1" parent="1">
           <mxGeometry x="-1090" y="822.59" width="400" height="417.41" as="geometry" />
         </mxCell>
@@ -691,6 +679,18 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-350" y="510" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jGmn0icsXWVHakygA171-27" value="TrustStorer" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-667.59" y="738" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jGmn0icsXWVHakygA171-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jGmn0icsXWVHakygA171-27" target="jGmn0icsXWVHakygA171-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jGmn0icsXWVHakygA171-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jGmn0icsXWVHakygA171-6" target="jGmn0icsXWVHakygA171-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jGmn0icsXWVHakygA171-29" value="Trusted CA certificates" style="points=[[0.015,0.015,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.985,0.015,0],[1,0.22,0],[1,0.44,0],[1,0.67,0],[0.985,0.89,0],[0,0.22,0],[0,0.44,0],[0,0.67,0],[0.015,0.89,0],[0.25,0.91,0],[0.5,0.91,0],[0.785,0.955,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.x509_certificate;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="870" width="94.81" height="90.07" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
