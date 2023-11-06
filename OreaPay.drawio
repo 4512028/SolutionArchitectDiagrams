@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T09:29:34.612Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="aPX_hh1MIYs_Fy29ApTC" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T09:30:45.222Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="7ANa-2VhY_CuCyU4wsbB" version="22.0.8" type="github">
   <diagram name="Page-1" id="3SnFC3LOCb9zNHQhsVjM">
-    <mxGraphModel dx="3871" dy="2447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3690" dy="2335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="J1bqy3TiTtF0nXnbvTN2-1" value="Z" style="group;fontSize=25;fontStyle=1;fillColor=none;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-520" y="150" width="3400" height="1300" as="geometry" />
         </mxCell>
-        <mxCell id="P7Ty_6j_-upv8-t5iq1F-1271" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="J1bqy3TiTtF0nXnbvTN2-1" vertex="1">
+        <mxCell id="P7Ty_6j_-upv8-t5iq1F-1271" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="J1bqy3TiTtF0nXnbvTN2-1" vertex="1">
           <mxGeometry x="-1040" y="-980" width="4263.64" height="2220" as="geometry" />
         </mxCell>
         <mxCell id="P7Ty_6j_-upv8-t5iq1F-1284" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="J1bqy3TiTtF0nXnbvTN2-1" source="J1bqy3TiTtF0nXnbvTN2-2" target="J1bqy3TiTtF0nXnbvTN2-15" edge="1">
@@ -663,7 +663,7 @@
         <mxCell id="jGmn0icsXWVHakygA171-53" value="man-in-middle attack:&lt;br&gt;Cannot break seccured. channnel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="J1bqy3TiTtF0nXnbvTN2-1" vertex="1">
           <mxGeometry x="-95" y="277.67" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q6M2tLioFxn9akfqu1Hq-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="J1bqy3TiTtF0nXnbvTN2-1">
+        <mxCell id="Q6M2tLioFxn9akfqu1Hq-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="J1bqy3TiTtF0nXnbvTN2-1">
           <mxGeometry x="1090.61" y="-760" width="789.39" height="730" as="geometry" />
         </mxCell>
         <mxCell id="Q6M2tLioFxn9akfqu1Hq-3" value="users" style="sketch=0;outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_users;pointerEvents=1" vertex="1" parent="J1bqy3TiTtF0nXnbvTN2-1">
@@ -689,6 +689,12 @@
         </mxCell>
         <mxCell id="Q6M2tLioFxn9akfqu1Hq-22" value="Pull Image From ECR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="J1bqy3TiTtF0nXnbvTN2-1">
           <mxGeometry x="1474.68" y="-240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6M2tLioFxn9akfqu1Hq-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.003;entryY=0.562;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="J1bqy3TiTtF0nXnbvTN2-1" source="7swLmT_gmCTlHQzp_fBe-3" target="Q6M2tLioFxn9akfqu1Hq-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="-320" as="sourcePoint" />
+            <mxPoint x="810" y="-370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="J1bqy3TiTtF0nXnbvTN2-6" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-819.9996703296702" y="295.5018181818182" width="112.45714285714288" height="442.90909090909093" as="geometry" />
@@ -774,6 +780,9 @@
         </mxCell>
         <mxCell id="Q6M2tLioFxn9akfqu1Hq-28" value="Aws Ccode Build" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="-200" width="79.2" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6M2tLioFxn9akfqu1Hq-35" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Deployment pipeline&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="865.28" y="-600" width="164.7" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
