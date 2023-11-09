@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T13:00:20.622Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="74YAIEEShEKpMKvoGr-v" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T13:03:38.171Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="S1YkeXGR6lRcZ1fZ8OBw" version="22.1.0" type="github">
   <diagram name="Page-1" id="IxKBDn9ICpdm7T-o7WNG">
-    <mxGraphModel dx="2388" dy="2570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="918" dy="1665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -509,26 +509,32 @@
         <mxCell id="j8L632Rrw3CPoIvZLZqo-272" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Financial Reports&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1730" y="1155" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j8L632Rrw3CPoIvZLZqo-291" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j8L632Rrw3CPoIvZLZqo-277" target="j8L632Rrw3CPoIvZLZqo-282">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-291" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="j8L632Rrw3CPoIvZLZqo-282">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="935" y="13.5" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="j8L632Rrw3CPoIvZLZqo-277" value="Internet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" vertex="1" parent="1">
-          <mxGeometry x="855" y="-26.5" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="j8L632Rrw3CPoIvZLZqo-286" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j8L632Rrw3CPoIvZLZqo-282" target="j8L632Rrw3CPoIvZLZqo-98">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-286" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j8L632Rrw3CPoIvZLZqo-282">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1090" y="140" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="j8L632Rrw3CPoIvZLZqo-282" value="Loadbalnccer" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elastic_load_balancing;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1051.75" y="-33" width="76.5" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="j8L632Rrw3CPoIvZLZqo-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j8L632Rrw3CPoIvZLZqo-287" target="j8L632Rrw3CPoIvZLZqo-277">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j8L632Rrw3CPoIvZLZqo-287">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="13.499999999999773" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="j8L632Rrw3CPoIvZLZqo-287" value="Authorized person" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" vertex="1" parent="1">
           <mxGeometry x="640" y="-23" width="95" height="73" as="geometry" />
         </mxCell>
         <mxCell id="j8L632Rrw3CPoIvZLZqo-306" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;BackOffice Diagram V 1.0&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="95" width="245" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-314" value="Internet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" vertex="1" parent="1">
+          <mxGeometry x="870" y="-10" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
