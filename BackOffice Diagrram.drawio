@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T12:55:08.240Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ZjQTzWjp-WCKaicF7kJd" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T12:55:42.261Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="hcgS9FTof0i0bwRe35qn" version="22.1.0" type="github">
   <diagram name="Page-1" id="IxKBDn9ICpdm7T-o7WNG">
-    <mxGraphModel dx="2388" dy="2570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1592" dy="2080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -529,6 +529,9 @@
         </mxCell>
         <mxCell id="j8L632Rrw3CPoIvZLZqo-287" value="Authorized person" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" vertex="1" parent="1">
           <mxGeometry x="640" y="-23" width="95" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-306" value="back office diagram V 1.0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="-120" width="245" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
