@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T11:38:43.787Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ASye_9rNqXjzXnCVdVG2" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T12:19:21.933Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="JaE8aAM3HvgSev7zMQdP" version="22.1.0" type="github">
   <diagram name="Page-1" id="IxKBDn9ICpdm7T-o7WNG">
-    <mxGraphModel dx="1493" dy="919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="995" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,7 +12,7 @@
             <mxPoint x="-310" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j8L632Rrw3CPoIvZLZqo-49" value="d" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-49" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="110" y="140" width="1910" height="1170" as="geometry" />
         </mxCell>
         <mxCell id="j8L632Rrw3CPoIvZLZqo-98" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;System&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -107,7 +107,7 @@
         <mxCell id="j8L632Rrw3CPoIvZLZqo-92" value="" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1590" y="570" width="310" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="j8L632Rrw3CPoIvZLZqo-93" value="Fee Management Module" style="shape=module;jettyWidth=8;jettyHeight=4;fontSize=8;" vertex="1" parent="j8L632Rrw3CPoIvZLZqo-92">
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-93" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontSize=8;" vertex="1" parent="j8L632Rrw3CPoIvZLZqo-92">
           <mxGeometry x="1" width="113" height="20" relative="1" as="geometry">
             <mxPoint x="-310" y="-10" as="offset" />
           </mxGeometry>
@@ -115,8 +115,8 @@
         <mxCell id="j8L632Rrw3CPoIvZLZqo-90" value="" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1590" y="410" width="310" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="j8L632Rrw3CPoIvZLZqo-91" value="Selling Product Module" style="shape=module;jettyWidth=8;jettyHeight=4;fontSize=8;" vertex="1" parent="j8L632Rrw3CPoIvZLZqo-90">
-          <mxGeometry x="1" width="113" height="20" relative="1" as="geometry">
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-91" value="Payment Gateway Management:" style="shape=module;jettyWidth=8;jettyHeight=4;fontSize=8;" vertex="1" parent="j8L632Rrw3CPoIvZLZqo-90">
+          <mxGeometry x="1" width="149" height="20" relative="1" as="geometry">
             <mxPoint x="-310" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -140,14 +140,14 @@
           <mxGeometry x="1150" y="720" width="310" height="120" as="geometry" />
         </mxCell>
         <mxCell id="j8L632Rrw3CPoIvZLZqo-87" value="Policy Management  Module" style="shape=module;jettyWidth=8;jettyHeight=4;fontSize=8;" vertex="1" parent="j8L632Rrw3CPoIvZLZqo-86">
-          <mxGeometry x="1" width="113" height="20" relative="1" as="geometry">
+          <mxGeometry x="1" width="129" height="20" relative="1" as="geometry">
             <mxPoint x="-310" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j8L632Rrw3CPoIvZLZqo-66" value="" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1140" y="560" width="310" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="j8L632Rrw3CPoIvZLZqo-67" value="Revenue model  Module" style="shape=module;jettyWidth=8;jettyHeight=4;fontSize=8;" vertex="1" parent="j8L632Rrw3CPoIvZLZqo-66">
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-67" value=" Reverse Payment   Module" style="shape=module;jettyWidth=8;jettyHeight=4;fontSize=8;" vertex="1" parent="j8L632Rrw3CPoIvZLZqo-66">
           <mxGeometry x="1" width="113" height="20" relative="1" as="geometry">
             <mxPoint x="-310" y="-10" as="offset" />
           </mxGeometry>
@@ -214,8 +214,8 @@
         <mxCell id="j8L632Rrw3CPoIvZLZqo-118" value="" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="250" y="550" width="310" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="j8L632Rrw3CPoIvZLZqo-119" value="Payment Gateway Module" style="shape=module;jettyWidth=8;jettyHeight=4;fontSize=8;" vertex="1" parent="j8L632Rrw3CPoIvZLZqo-118">
-          <mxGeometry x="1" width="113" height="20" relative="1" as="geometry">
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-119" value="Revenue Model and Fee Management: module" style="shape=module;jettyWidth=8;jettyHeight=4;fontSize=8;" vertex="1" parent="j8L632Rrw3CPoIvZLZqo-118">
+          <mxGeometry x="1" width="199" height="20" relative="1" as="geometry">
             <mxPoint x="-310" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -285,10 +285,10 @@
         <mxCell id="j8L632Rrw3CPoIvZLZqo-149" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Delegate&amp;nbsp;can log into the system.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="295" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j8L632Rrw3CPoIvZLZqo-150" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Delegate&amp;nbsp;can change their password.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="240" width="120" height="30" as="geometry" />
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-150" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Delegate&amp;nbsp;can change their password.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j8L632Rrw3CPoIvZLZqo-151" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Delegate&amp;nbsp;can log out of the system.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-151" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Delegate&amp;nbsp;can log out of the system.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="330" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j8L632Rrw3CPoIvZLZqo-157" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Create/View/Update/Delete Sub Admins:&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -300,44 +300,38 @@
         <mxCell id="j8L632Rrw3CPoIvZLZqo-161" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;View List of Sub Admins&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="325" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j8L632Rrw3CPoIvZLZqo-164" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Delegate&amp;nbsp;can log out of the system.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="240" width="120" height="30" as="geometry" />
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-164" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Delegate&amp;nbsp;can log out of the system.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="845" y="250" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j8L632Rrw3CPoIvZLZqo-165" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Delegate&amp;nbsp;can define roles and permissions.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-165" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Delegate&amp;nbsp;can define roles and permissions.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="850" y="295" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j8L632Rrw3CPoIvZLZqo-166" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&amp;nbsp;Delegate can see a list of all sub-admins.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-166" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp;Delegate can see a list of all sub-admins.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="295" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j8L632Rrw3CPoIvZLZqo-167" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;View List/Detail,&lt;/font&gt;:" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1157.5" y="270" width="122.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j8L632Rrw3CPoIvZLZqo-168" value="&lt;div style=&quot;font-size: 6px;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Delegate can manage customers.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;View details, activate/deactivate customers.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Reset customer passwords.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="255" width="160" height="60" as="geometry" />
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-168" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Delegate can manage customers.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;View details, activate/deactivate customers.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Reset customer passwords.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="255" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j8L632Rrw3CPoIvZLZqo-169" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Set Roles &amp;amp; Permissions&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="610" width="110" height="30" as="geometry" />
+          <mxGeometry x="1605" y="600" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j8L632Rrw3CPoIvZLZqo-170" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Set Roles &amp;amp; Permissions&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1610" y="790" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="j8L632Rrw3CPoIvZLZqo-171" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Set Roles &amp;amp; Permissions&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="640" width="110" height="30" as="geometry" />
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-171" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Verify and Accept/Reject Requests:&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="625" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="j8L632Rrw3CPoIvZLZqo-172" value="View List" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="480" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j8L632Rrw3CPoIvZLZqo-173" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Set Roles &amp;amp; Permissions&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="580" width="110" height="30" as="geometry" />
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-173" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Extensive Reporting for Central Banking&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="630" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j8L632Rrw3CPoIvZLZqo-174" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Set Roles &amp;amp; Permissions&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="440" width="110" height="30" as="geometry" />
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-175" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp; View Request for Transaction Limit&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="430" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j8L632Rrw3CPoIvZLZqo-175" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Set Roles &amp;amp; Permissions&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="470" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="j8L632Rrw3CPoIvZLZqo-176" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Set Roles &amp;amp; Permissions&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="440" width="110" height="30" as="geometry" />
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-176" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Select Payment Gateway for Geolocalization:&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="430" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j8L632Rrw3CPoIvZLZqo-177" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;View List/Detail, Activate/Deactivate Merchant&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1605" y="270" width="260" height="30" as="geometry" />
@@ -354,11 +348,11 @@
         <mxCell id="j8L632Rrw3CPoIvZLZqo-184" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Set Roles &amp;amp; Permissions&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="405" y="730" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j8L632Rrw3CPoIvZLZqo-185" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Set Roles &amp;amp; Permissions&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="755" width="110" height="30" as="geometry" />
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-185" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;View Ticket Details:&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="730" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j8L632Rrw3CPoIvZLZqo-186" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Set Roles &amp;amp; Permissions&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="640" width="110" height="30" as="geometry" />
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-186" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;View Revenue/Set Merchant Fee&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="570" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j8L632Rrw3CPoIvZLZqo-187" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Set Roles &amp;amp; Permissions&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="1090" width="110" height="30" as="geometry" />
@@ -378,7 +372,7 @@
         <mxCell id="j8L632Rrw3CPoIvZLZqo-208" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Set Roles &amp;amp; Permissions&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1720" y="1135" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j8L632Rrw3CPoIvZLZqo-209" value="&lt;div style=&quot;font-size: 6px;&quot;&gt;&lt;div&gt;Super Admin can manage merchants.&lt;/div&gt;&lt;div&gt;View details, activate/deactivate merchants.&lt;/div&gt;&lt;div&gt;Reset merchant passwords.&lt;/div&gt;&lt;div&gt;View product details of each merchant.&lt;/div&gt;&lt;div&gt;Remove products.&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-209" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;div&gt;Delegate can manage merchants.&lt;/div&gt;&lt;div&gt;View details, activate/deactivate merchants.&lt;/div&gt;&lt;div&gt;Reset merchant passwords.&lt;/div&gt;&lt;div&gt;View product details of each merchant.&lt;/div&gt;&lt;div&gt;Remove products.&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1720" y="295" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j8L632Rrw3CPoIvZLZqo-211" value="Create Vendor:" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -387,8 +381,86 @@
         <mxCell id="j8L632Rrw3CPoIvZLZqo-213" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Activate/Deactivate&lt;/font&gt;:" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="325" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j8L632Rrw3CPoIvZLZqo-214" value="&lt;div style=&quot;font-size: 6px;&quot;&gt;&lt;div style=&quot;font-size: 6px;&quot;&gt;&lt;div&gt;Super Admin can manage merchants.&lt;/div&gt;&lt;div&gt;View details, activate/deactivate merchants.&lt;/div&gt;&lt;div&gt;Reset merchant passwords.&lt;/div&gt;&lt;div&gt;View product details of each merchant.&lt;/div&gt;&lt;div&gt;Remove products.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="425" y="410" width="160" height="60" as="geometry" />
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-214" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Delegate can manage merchants.&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;View details, activate/deactivate merchants.&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Reset merchant passwords.&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;View product details of each merchant.&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Remove products.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="410" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-216" value="View Notifications" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="425" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-217" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Delegate can view all notifications.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="470" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-218" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Set Limit for Selling Product&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="490" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-219" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Set Transaction Limit&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="430" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-220" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Delegate can set transaction limits, view requests for transaction limitsand set limits for selling products.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="450" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-221" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Delegate&amp;nbsp;can select the payment gateway for each geolocalization. Select multiple payment gateways.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="465" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-222" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;System Audit History&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="570" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-223" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;Current Situation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="570" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-225" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Delegate can&amp;nbsp;&amp;nbsp;view the system audit history,&amp;nbsp;current situation of all account and&amp;nbsp;extensive reports for central banking.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="590" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-227" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;View All Reverse Payment Requests&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="580" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-228" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Update Status of Requests:&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="580" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-229" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Delegate can&amp;nbsp;&amp;nbsp;viewall reverse payment requests,update the status of reverse payment requests and verify and accept/reject reverse payment requests..&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="610" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-230" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Delegate can&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;view revenue and set merchant fees.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="567.5" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-231" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Fee Management:&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="610" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-232" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Delegate can set monthly maintenance fees.&lt;span style=&quot;background-color: initial;&quot;&gt;Set vendor/merchant fees.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;View/Update fees.&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Set fees for foreign currency exchange&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="615" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-233" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;View All Tickets:&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="797.5" y="730" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-234" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Search and Apply Filters&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="770" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-235" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Update Ticket Status:&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="730" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-236" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Send/View Messages:&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="732.5" y="770" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-237" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Add/View/Update/Delete Policies&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="740" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-238" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;View List of All Policies&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="790" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-239" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Delegate can manage fee policies and view a list of all policies.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="750" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-240" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;View Real-time Account Status&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1605" y="810" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-241" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;View Real-time Account Status&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="810" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-242" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Share Percentage Transactions&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="745" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8L632Rrw3CPoIvZLZqo-243" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Delegate can open a new account,view the real-time account status and&amp;nbsp; share percentage transactions between multiple accounts.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1595" y="760" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
