@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T16:34:50.552Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="JeQweDaV1lFtL5nMKUJh" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-08T16:35:24.769Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="dEN_V7nrapy6IBSXavqO" version="24.0.2" type="github">
   <diagram name="Page-1" id="dC7KNaYVVROXUXvE69UV">
     <mxGraphModel dx="5850" dy="5610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -90,9 +90,6 @@
         </mxCell>
         <mxCell id="RPfx2fC9kInnGa9uHgTg-76" value="man-in-middle attack:&lt;br&gt;Cannot break seccured. channnel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RPfx2fC9kInnGa9uHgTg-2">
           <mxGeometry x="-95" y="277.67" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RPfx2fC9kInnGa9uHgTg-110" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Software Development and Deployment Process&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RPfx2fC9kInnGa9uHgTg-2">
-          <mxGeometry x="2726.09" y="-1030" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RPfx2fC9kInnGa9uHgTg-124" value="&lt;h1 style=&quot;box-sizing: inherit; margin: 1.95em 0px -0.28em; font-family: sohne, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; color: rgb(36, 36, 36); line-height: 30px; letter-spacing: -0.016em; text-align: start; background-color: rgb(255, 255, 255);&quot; data-selectable-paragraph=&quot;&quot; class=&quot;mz na fr be nb nc nd ne nf ng nh ni nj nk nl nm nn no np nq nr ns nt nu nv nw bj&quot; id=&quot;4ab0&quot;&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RPfx2fC9kInnGa9uHgTg-2">
           <mxGeometry x="-1000" y="300.35" width="160" height="23.56" as="geometry" />
