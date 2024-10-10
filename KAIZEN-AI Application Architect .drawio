@@ -311,6 +311,9 @@
         <mxCell id="oqFDeRQ9JH1dUqn_QDsD-80" value="FrontEnd Repo" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="23.5" y="807.25" width="141" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="T5864fqV5jGM3hMj8uNM-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="1088" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
