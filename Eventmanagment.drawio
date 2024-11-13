@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Page-1" id="f2hW7xVKvWyhTs6qArPJ">
-    <mxGraphModel dx="1994" dy="1165" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4211" dy="2343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t8ypB-kovDcn-z8rH8vT-61" value="&amp;nbsp;Request to view property-related calendar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="t8ypB-kovDcn-z8rH8vT-60" vertex="1" connectable="0">
+        <mxCell id="t8ypB-kovDcn-z8rH8vT-61" value="&amp;nbsp;Request to view calendar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="t8ypB-kovDcn-z8rH8vT-60" vertex="1" connectable="0">
           <mxGeometry x="-0.2136" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -67,7 +67,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t8ypB-kovDcn-z8rH8vT-67" value="Fetch property-related events" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="t8ypB-kovDcn-z8rH8vT-66" vertex="1" connectable="0">
+        <mxCell id="t8ypB-kovDcn-z8rH8vT-67" value="Fetch events" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="t8ypB-kovDcn-z8rH8vT-66" vertex="1" connectable="0">
           <mxGeometry x="-0.277" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -324,7 +324,7 @@
             <mxPoint x="260" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t8ypB-kovDcn-z8rH8vT-76" value="View property-related calendar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="t8ypB-kovDcn-z8rH8vT-75" vertex="1" connectable="0">
+        <mxCell id="t8ypB-kovDcn-z8rH8vT-76" value="View calendar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="t8ypB-kovDcn-z8rH8vT-75" vertex="1" connectable="0">
           <mxGeometry x="-0.2033" y="-5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
