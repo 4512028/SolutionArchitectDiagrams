@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Page-1" id="f2hW7xVKvWyhTs6qArPJ">
-    <mxGraphModel dx="4790" dy="3800" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1994" dy="1165" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,7 +94,7 @@
         <mxCell id="t8ypB-kovDcn-z8rH8vT-5" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=#999999;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="650" y="350" width="190" height="187" as="geometry" />
         </mxCell>
-        <mxCell id="t8ypB-kovDcn-z8rH8vT-6" value="Property Calendar" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontColor=#999999;" parent="t8ypB-kovDcn-z8rH8vT-5" vertex="1">
+        <mxCell id="t8ypB-kovDcn-z8rH8vT-6" value="MyCal" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontColor=#999999;" parent="t8ypB-kovDcn-z8rH8vT-5" vertex="1">
           <mxGeometry x="35.625" y="8.548571428571428" width="118.75" height="21.37142857142857" as="geometry" />
         </mxCell>
         <mxCell id="t8ypB-kovDcn-z8rH8vT-7" value="&lt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=4;strokeColor=#999999;fontColor=#008cff;fontSize=19;fontStyle=1;" parent="t8ypB-kovDcn-z8rH8vT-5" vertex="1">
@@ -639,13 +639,13 @@
         <mxCell id="t8ypB-kovDcn-z8rH8vT-241" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1390" y="890" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="orLCtfsCClI1WMSvHNhY-1" value="tawk.to video service" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.cloud_distribution_point" vertex="1" parent="1">
+        <mxCell id="orLCtfsCClI1WMSvHNhY-1" value="tawk.to video service" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.cloud_distribution_point" parent="1" vertex="1">
           <mxGeometry x="1430" y="900" width="50" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="orLCtfsCClI1WMSvHNhY-4" value="Round-Robin Meetings" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="orLCtfsCClI1WMSvHNhY-4" value="Round-Robin Meetings" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="908" y="153" width="120" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="orLCtfsCClI1WMSvHNhY-5" value="Paid events" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="orLCtfsCClI1WMSvHNhY-5" value="Paid events" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="908" y="198" width="120" height="36" as="geometry" />
         </mxCell>
       </root>
