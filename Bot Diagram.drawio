@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T13:12:34.532Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="yAcqweiR1ruHuFPtZ9aw" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="Dqp-5Hm9qnmz3WRRqfo1">
-    <mxGraphModel dx="1990" dy="1087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1990" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,41 +22,25 @@
         <mxCell id="OUmWpfD44DdJ5hgjWDVa-14" value="&lt;b&gt;Bot System&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="411.25" width="105" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gJ6tBJRd_yEAi6bfWAn0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="OUmWpfD44DdJ5hgjWDVa-15" target="OUmWpfD44DdJ5hgjWDVa-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gJ6tBJRd_yEAi6bfWAn0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="OUmWpfD44DdJ5hgjWDVa-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJ6tBJRd_yEAi6bfWAn0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="OUmWpfD44DdJ5hgjWDVa-15" target="OUmWpfD44DdJ5hgjWDVa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OUmWpfD44DdJ5hgjWDVa-15" value="User&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="290" width="30" height="60" as="geometry" />
+          <mxGeometry y="275" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OUmWpfD44DdJ5hgjWDVa-20" value="Version Control Syystem" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="60" y="700" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OUmWpfD44DdJ5hgjWDVa-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.593;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="OUmWpfD44DdJ5hgjWDVa-21" target="OUmWpfD44DdJ5hgjWDVa-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OUmWpfD44DdJ5hgjWDVa-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="OUmWpfD44DdJ5hgjWDVa-1" target="OUmWpfD44DdJ5hgjWDVa-28" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="280" as="sourcePoint" />
-            <mxPoint x="210" y="230" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="260" y="450" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OUmWpfD44DdJ5hgjWDVa-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="OUmWpfD44DdJ5hgjWDVa-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="300" as="sourcePoint" />
-            <mxPoint x="290" y="140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OUmWpfD44DdJ5hgjWDVa-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.033;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="OUmWpfD44DdJ5hgjWDVa-1" target="OUmWpfD44DdJ5hgjWDVa-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="300" as="sourcePoint" />
-            <mxPoint x="230" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OUmWpfD44DdJ5hgjWDVa-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OUmWpfD44DdJ5hgjWDVa-15" target="OUmWpfD44DdJ5hgjWDVa-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="310" as="sourcePoint" />
-            <mxPoint x="240" y="260" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="OUmWpfD44DdJ5hgjWDVa-28" value="Task Automation Logic" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="460" width="120" height="60" as="geometry" />
@@ -66,12 +50,6 @@
         </mxCell>
         <mxCell id="OUmWpfD44DdJ5hgjWDVa-35" value="&lt;div&gt;Perform Task&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="410" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OUmWpfD44DdJ5hgjWDVa-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="OUmWpfD44DdJ5hgjWDVa-7" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="320" as="sourcePoint" />
-            <mxPoint x="300" y="235" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="OUmWpfD44DdJ5hgjWDVa-33" value="Access Support" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="230" y="245" width="60" height="30" as="geometry" />
@@ -291,6 +269,9 @@
         </mxCell>
         <mxCell id="OUmWpfD44DdJ5hgjWDVa-21" value="Microservices" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="150" y="635" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gJ6tBJRd_yEAi6bfWAn0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="OUmWpfD44DdJ5hgjWDVa-15" target="OUmWpfD44DdJ5hgjWDVa-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
